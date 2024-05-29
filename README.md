@@ -1,5 +1,5 @@
 ### Olaaa 👋
 
-- 📝 Cursando Sistemas de Informação - Fepi Itajuba.
+- 📝 Cursando Sistemas de Informação
 
 
