@@ -10,7 +10,7 @@
 - **Outros:** RESTful APIs, Testes Automatizados, Integração Contínua/Entrega Contínua (CI/CD)
 
 ## 🚀 Projetos Destacados
-### [APIConnectLimeSurvey]
+### APIConnectLimeSurvey
 Este projeto foi desenvolvido para resolver a limitação de criação manual de questionários em larga escala no serviço LimeSurvey, para superar essa barreira, desenvolvi uma solução que automatiza esse processo, conectando a API do LimeSurvey ao banco de dados da universidade.
 - **Repositório:** Repositorio indisponivel(#)
 - **Principais Funcionalidades:**
