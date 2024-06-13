@@ -3,11 +3,11 @@
 - 📝 Cursando Sistemas de Informação
 
 ## 🔧 Tecnologias e Ferramentas
-- **Linguagens:** PHP, JavaScript, HTML, CSS
+- **Linguagens:** PHP, TypeScript
 - **Frameworks PHP:** Laravel
 - **Banco de Dados:** MySQL, PostgreSQL
 - **Ferramentas:** Composer, Git, Docker
-- **Outros:** RESTful APIs, Testes Automatizados, Integração Contínua/Entrega Contínua (CI/CD)
+- **Outros:** RESTful APIs
 
 ## 🚀 Projetos Destacados
 ### APIConnectLimeSurvey
