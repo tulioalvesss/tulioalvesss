@@ -1,9 +1,9 @@
 ### Olá a todos 👋
 
-- 📝 Cursando Sistemas de Informação
+- 📝 Formado em Sistemas de Informação
 
 ## 🔧 Tecnologias e Ferramentas
-- **Linguagens:** PHP, TypeScript
+- **Linguagens:** PHP, jQuery, TypeScript
 - **Frameworks PHP:** Laravel
 - **Banco de Dados:** MySQL, PostgreSQL
 - **Ferramentas:** Composer, Git, Docker
@@ -14,7 +14,7 @@
 Este projeto foi desenvolvido para resolver a limitação de criação manual de questionários em larga escala no serviço LimeSurvey. Para superar essa barreira, desenvolvi uma solução que automatiza esse processo, conectando a API do LimeSurvey ao banco de dados da universidade.
 - **Repositório:** [APIConnectLimeSurvey](#) (atualmente indisponível)
 - **Principais Funcionalidades:**
-  - **Automação de Criação de Questionários:** Geração automática de questionários baseados nos dados fornecidos pela universidade.
+  - **Automação de Criação de Questionários:** Geração automática de questionários baseados nos dados fornecidos.
   - **Atribuição Automática:** Atribuição automática dos questionários a alunos e professores, organizando-os conforme as turmas e/ou cursos específicos.
 
 ## 📈 Estatísticas do GitHub
