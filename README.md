@@ -2,13 +2,13 @@
 
 - 📝 Formado em Sistemas de Informação
 
-## 🛠️ Tecnologias que impulsionam meus projetos
+## 💻 Tecnologias que impulsionam meus projetos
 Aqui estão as ferramentas e tecnologias que utilizo para transformar ideias em soluções reais:
 
 - **🌐 Linguagens:**
   - PHP, Node.js, jQuery, TypeScript
 
-- **🚀 Frameworks:**
+- **🛠️ Frameworks:**
   - Backend com Laravel | Frontend com React
 
 - **🗄️ Banco de Dados:**
@@ -17,7 +17,7 @@ Aqui estão as ferramentas e tecnologias que utilizo para transformar ideias em 
 - **⚙️ Ferramentas:**
   - Composer, Git, Docker
 
-- **🧩 Arquitetura & APIs:**
+- **🔑 Arquitetura & APIs:**
   - Especialista em Micro-serviços e RESTful APIs, desde a criação até a manutenção.
 
 - **🔍 Testes:**
@@ -28,20 +28,20 @@ Aqui estão as ferramentas e tecnologias que utilizo para transformar ideias em 
  
 
 ## 🚀 Projetos Destacados
-### GestãoCPA_UNIFEI
+### 🟢 GestãoCPA_UNIFEI
 Desenvolvi esta solução para automatizar a criação de questionários em larga escala, integrando o LimeSurvey com um banco de dados institucional, agilizando processos acadêmicos e corporativos. O projeto elimina a necessidade de criação manual, permitindo a geração automática a partir de templates pré-definidos.
 ### Repositório: [Gestão CPA](https://gestaocpa.unifei.edu.br/)
-### Tecnologias:
+### 📌 Tecnologias:
 - **Backend:** PHP ^7, Laravel 8, LimeSurvey API, MySQL/PostgreSQL
 - **Frontend:** jQuery, Bootstrap, Tailwind
 - **Ferramentas:** Composer, Vite, GitHub
 
-### Principais Funcionalidades:
+### 📌 Principais Funcionalidades:
 - Automação de questionários com atribuição dinâmica.
 - Integração completa com a API do LimeSurvey.
 - Armazenamento e geração de relatórios com base nos dados coletados.
 
-### 🔐 API e Autenticação:
+### 📌 API e Autenticação:
  - API REST desenvolvida em Laravel para acesso aos dados de respostas e estatísticas.
  - Autenticação por Token, garantindo a segurança no consumo dos endpoints de dados.
 
