@@ -10,9 +10,9 @@
 - **Outros:** RESTful APIs
 
 ## 🚀 Projetos Destacados
-### APIConnectLimeSurvey
+### GestãoCPA_UNIFEI
 Desenvolvi esta solução para automatizar a criação de questionários em larga escala, integrando o LimeSurvey com um banco de dados relacional, agilizando processos acadêmicos e corporativos. O projeto elimina a necessidade de criação manual, permitindo a geração automática a partir de templates pré-definidos.
-### Repositório: [APIConnectLimeSurvey](#) (atualmente indisponível)
+### Repositório: [Gestão CPA](https://gestaocpa.unifei.edu.br/)
 ### Tecnologias:
 - **Backend:** PHP 8.3, Laravel 11, LimeSurvey API, MySQL/PostgreSQL
 - **Frontend:** jQuery, Bootstrap, Tailwind
