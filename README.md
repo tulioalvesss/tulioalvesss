@@ -11,11 +11,20 @@
 
 ## 🚀 Projetos Destacados
 ### APIConnectLimeSurvey
-Este projeto foi desenvolvido para resolver a limitação de criação manual de questionários em larga escala no serviço LimeSurvey. Para superar essa barreira, desenvolvi uma solução que automatiza esse processo, conectando a API do LimeSurvey ao banco de dados da universidade.
-- **Repositório:** [APIConnectLimeSurvey](#) (atualmente indisponível)
-- **Principais Funcionalidades:**
-  - **Automação de Criação de Questionários:** Geração automática de questionários baseados nos dados fornecidos.
-  - **Atribuição Automática:** Atribuição automática dos questionários a alunos e professores, organizando-os conforme as turmas e/ou cursos específicos.
+Desenvolvi esta solução para automatizar a criação de questionários em larga escala, integrando o LimeSurvey com um banco de dados relacional, agilizando processos acadêmicos e corporativos. O projeto elimina a necessidade de criação manual, permitindo a geração automática a partir de templates pré-definidos.
+### Repositório: [APIConnectLimeSurvey](#) (atualmente indisponível)
+### Tecnologias:
+- **Backend:** PHP 8.3, Laravel 11, LimeSurvey API, MySQL/PostgreSQL
+- **Frontend:** jQuery, Bootstrap, Tailwind
+- **Ferramentas:** Composer, Vite, GitHub
+
+### Principais Funcionalidades:
+- Automação de questionários com atribuição dinâmica.
+- Integração completa com a API do LimeSurvey.
+- Armazenamento e geração de relatórios com base nos dados coletados.
+
+Esse projeto acelerou a criação de questionários e tornou o processo muito mais escalável e eficiente.
+
 
 ## 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tulioalvesss&show_icons=true&theme=radical)
