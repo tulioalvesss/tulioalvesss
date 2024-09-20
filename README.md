@@ -18,7 +18,7 @@ Aqui estão as ferramentas e tecnologias que utilizo para transformar ideias em 
   - Composer, Git, Docker
 
 - **🔑 Arquitetura & APIs:**
-  - Especialista em Micro-serviços e RESTful APIs, desde a criação até a manutenção.
+  - Experiências em Micro-serviços e RESTful APIs, desde a criação até a manutenção.
 
 - **🔍 Testes:**
   - Testes Unitários (PHPUnit, Jest) para garantir que cada linha de código seja sólida.
