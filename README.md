@@ -2,7 +2,7 @@
 
 <!-- Seção de Formação -->
 <p align="center" style="font-size: 1.2rem; color: #555;">📝 <strong>Formado em Sistemas de Informação</strong></p>
-<p align="center" style="font-size: 0.8rem; color: #555;"><a href="https://tulioalvesss.github.io/sobre/">Meu Portfólio</a></p>
+<p align="center" style="font-size: 0.8rem; color: #555;"><a href="https://tulioalvesss.github.io/sobre/" target="_blank">Meu Portfólio</a></p>
 
 <!-- Seção Tecnologias -->
 <h2 align="center" style="color: #0366d6; font-size: 2rem;">💻 Tecnologias que Impulsionam Meus Projetos</h2>
