@@ -69,12 +69,13 @@
     <li>Armazenamento e geração de relatórios com base nos dados coletados.</li>
 </ul>
 
-<!-- API e Autenticação -->
+<!-- API e Autenticação 
 <h4>📌 API e Autenticação:</h4>
 <ul style="color: #555;">
     <li>API REST desenvolvida em Laravel para acesso aos dados de respostas e estatísticas.</li>
     <li>Autenticação por Token, garantindo a segurança no consumo dos endpoints de dados.</li>
 </ul>
+-->
 
 <!-- Estatísticas do GitHub -->
 <h2 align="center" style="color: #0366d6; font-size: 2rem;">📈 Estatísticas do GitHub</h2>
