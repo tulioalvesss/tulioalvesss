@@ -25,16 +25,6 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-<!-- Arquitetura, APIs e Testes -->
-<h3 align="center" style="color: #0366d6; font-size: 1.6rem;">🔑 Arquitetura & APIs</h3>
-<p align="center" style="font-size: 1rem; color: #555;">Experiências em Micro-serviços e RESTful APIs, desde a criação até a manutenção.</p>
-
-<h3 align="center" style="color: #0366d6; font-size: 1.6rem;">🔍 Testes</h3>
-<p align="center" style="font-size: 1rem; color: #555;">Testes Unitários (PHPUnit, Jest) para garantir que cada linha de código seja sólida.</p>
-
-<h3 align="center" style="color: #0366d6; font-size: 1.6rem;">🔄 Automação e Entrega Contínua</h3>
-<p align="center" style="font-size: 1rem; color: #555;">CI/CD para garantir que tudo chegue ao destino com eficiência e segurança.</p>
-
 <!-- Projetos Destacados -->
 <h2 align="center" style="color: #0366d6; font-size: 2rem;">🚀 Projetos Destacados</h2>
 
@@ -46,35 +36,6 @@
 <p align="center">
     <strong>Repositório:</strong> <a href="https://gestaocpa.unifei.edu.br/">Gestão CPA</a>
 </p>
-
-<!-- Tecnologias do Projeto -->
-<h4>📌 Tecnologias:</h4>
-<p align="center" style="margin: 20px 0;">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-    <img src="https://img.shields.io/badge/LimeSurvey-2F394A?style=for-the-badge&logo=limesurvey&logoColor=white" alt="LimeSurvey">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-</p>
-
-<!-- Funcionalidades do Projeto -->
-<h4>📌 Principais Funcionalidades:</h4>
-<ul style="color: #555;">
-    <li>Automação de questionários com atribuição dinâmica.</li>
-    <li>Integração completa com a API do LimeSurvey.</li>
-    <li>Armazenamento e geração de relatórios com base nos dados coletados.</li>
-</ul>
-
-<!-- API e Autenticação 
-<h4>📌 API e Autenticação:</h4>
-<ul style="color: #555;">
-    <li>API REST desenvolvida em Laravel para acesso aos dados de respostas e estatísticas.</li>
-    <li>Autenticação por Token, garantindo a segurança no consumo dos endpoints de dados.</li>
-</ul>
--->
 
 <!-- Estatísticas do GitHub -->
 <h2 align="center" style="color: #0366d6; font-size: 2rem;">📈 Estatísticas do GitHub</h2>
