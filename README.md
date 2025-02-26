@@ -40,7 +40,7 @@
 <!-- Estatísticas do GitHub -->
 <h2 align="center" style="color: #0366d6; font-size: 2rem;">📈 Estatísticas do GitHub</h2>
 <p align="center" style="margin: 20px 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=tulioalvesss&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+    <img src="https://github-readme-stats.vercel.app/api?username=tulioalvesss&show_icons=true&theme=radical" alt="Estatisticas do GitHub">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulioalvesss&layout=compact&theme=radical" alt="Linguagens mais usadas">
 </p>
 
