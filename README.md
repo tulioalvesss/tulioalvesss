@@ -3,7 +3,7 @@
 <!-- Seção de Formação -->
 <p align="center" style="font-size: 1.2rem; color: #555;">📝 <strong>Formado em Sistemas de Informação</strong></p>
 <p align="center" style="font-size: 1rem; color: #444;">
-  <a href="https://my-bio-profile.vercel.app/" target="_blank" style="color: #007BFF; text-decoration: none; font-weight: bold;">
+  <a href="[https://my-bio-profile.vercel.app/](https://tuliocaiodev.vercel.app/)" target="_blank" style="color: #007BFF; text-decoration: none; font-weight: bold;">
     Meu Portfólio
   </a>
 </p>
